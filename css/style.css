@@ -1,0 +1,27 @@
+body{
+    background-image: url(../img/MaxVs\ Lewis.png);
+    background-size: fit ;
+}
+
+h1{
+    font-family: sans-serif;
+    width: 60rem;
+    height: 10rem;
+    
+
+}
+h2{
+    height: 10rem;
+    width: 20rem;
+}   
+h4{
+    height: 3rem;
+    width: 3rem;
+
+    
+}
+button{
+    width: 10rem;
+    height: 5rem;
+    border-radius: 5%;
+}
